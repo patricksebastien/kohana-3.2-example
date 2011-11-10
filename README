@@ -1,0 +1,11 @@
+To install:
+
+1) application/bootstrap.php (depending on your structure):
+'base_url'   => '/ko32example/site', 
+
+2) site/.htaccess (depending on your structure):
+RewriteBase /ko32example/site
+
+3) import ko32example.sql in your database
+
+4) modify application/config/* to suit your needs
