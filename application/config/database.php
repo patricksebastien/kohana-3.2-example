@@ -20,8 +20,8 @@ return array
 			 */
 			'hostname'   => 'localhost',
 			'database'   => 'ko32example',
-			'username'   => 'root',
-			'password'   => '',
+			'username'   => 'ko32example',
+			'password'   => 'k1k2k3k4',
 			'persistent' => FALSE,
 		),
 		'table_prefix' => '',

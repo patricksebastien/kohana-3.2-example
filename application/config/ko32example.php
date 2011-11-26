@@ -4,6 +4,7 @@ return array(
 	'encrypt_key' => 'fjdsjkfdskjfurew', 
 	'cookie_salt' => 'fjsdijeihrewhbfsugfuyegwufewgwb',
 	'cookie_lifetime' => DATE::YEAR,
+	'session_lifetime' => 0,
 	'header' => array
 	(
 		'title' => 'KOHANA 3.2 EXAMPLE',
