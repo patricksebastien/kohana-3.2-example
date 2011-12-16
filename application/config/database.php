@@ -19,9 +19,9 @@ return array
 			 * Ports and sockets may be appended to the hostname.
 			 */
 			'hostname'   => 'localhost',
-			'database'   => 'ko32example',
-			'username'   => 'ko32example',
-			'password'   => 'k1k2k3k4',
+			'database'   => '',
+			'username'   => '',
+			'password'   => '',
 			'persistent' => FALSE,
 		),
 		'table_prefix' => '',
